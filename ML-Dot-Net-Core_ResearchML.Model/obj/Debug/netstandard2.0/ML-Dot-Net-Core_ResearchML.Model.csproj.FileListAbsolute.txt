@@ -1,0 +1,9 @@
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\bin\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.deps.json
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\bin\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.dll
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\bin\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.pdb
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\obj\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\obj\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\obj\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.AssemblyInfo.cs
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\obj\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.dll
+C:\Users\Justin\source\repos\ML-Dot-Net-Core_Research\ML-Dot-Net-Core_ResearchML.Model\obj\Debug\netstandard2.0\ML-Dot-Net-Core_ResearchML.Model.pdb

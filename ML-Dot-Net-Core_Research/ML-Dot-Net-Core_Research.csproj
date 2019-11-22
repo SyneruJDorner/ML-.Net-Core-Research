@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>ML_Dot_Net_Core_Research</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ML-Dot-Net-Core_ResearchML.Model\ML-Dot-Net-Core_ResearchML.Model.csproj" />
+  </ItemGroup>
+
+</Project>
